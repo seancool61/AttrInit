@@ -1,0 +1,3 @@
+AttrInit
+Initialize class attributes in the class'es constructor
+initialisation and usage of static attributes 
