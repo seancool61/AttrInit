@@ -3,5 +3,6 @@
 2020.04.14 V1.0.01 
 
 #project description
-Initialize class attributes in the class'es constructor
-initialisation and usage of static attributes 
+This is Corey's sandbox:
+1. Initialize class attributes in the class'es constructor
+2. initialisation and usage of static attributes 
